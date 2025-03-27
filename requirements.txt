@@ -1,0 +1,6 @@
+PyPDF2
+pandas
+langchain-community
+beautifulsoup4
+xlsxwriter
+python-dotenv
